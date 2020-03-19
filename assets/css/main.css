@@ -376,7 +376,7 @@ input, select, textarea {
 	}
 
 	.res-btn {
-		margin-left: 15px;
+		margin-left: 45px;
 	}
 
 	.res-text {
@@ -2608,6 +2608,9 @@ input, select, textarea {
 				width: 100%;
 			}
 
+			.actions {
+				display: inline;
+			}
 		@media screen and (max-width: 480px) {
 
 			ul.actions:not(.fixed) {
