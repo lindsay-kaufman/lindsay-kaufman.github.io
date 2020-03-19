@@ -375,6 +375,14 @@ input, select, textarea {
 		text-align: right;
 	}
 
+	.res-btn {
+		margin-left: 15px;
+	}
+
+	.res-text {
+		border-bottom: none;
+	}
+
 	#resume {
 		color: white;
 		border-bottom: dotted 1px white;
